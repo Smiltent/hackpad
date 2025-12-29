@@ -5,7 +5,7 @@ a Mini-keyboard (Marcopad) provided by Hackclub's Blueprint YSWS
 * mmm... two funny little leds that may or may not work
 # Images
 ## PCB & Schematic
-If you look at the previous commit, you can see how much I hated my v1 PCB design. I don't even want to share it...
+If you look at the previous commit, you can see how much I hated my v1 PCB design. I don't even want to share it...  
 <img src=pcb/pcb_image.png width=300/>
 <img src=pcb/sch_image.png width=250/>
 ## CAD model
