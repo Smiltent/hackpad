@@ -4,9 +4,10 @@ a Mini-keyboard (Marcopad) provided by Hackclub's Blueprint YSWS
 * mmm... funny macro buttons!
 * mmm... two funny little leds that may or may not work
 # Images
-## PCB
-after making it, I realised how BAD the layout is... (for you non-seeing image fans, I remember how badly I made the PCB)
-(insert image here)
+## PCB & Schematic
+If you look at the previous commit, you can see how much I hated my v1 PCB design. I don't even want to share it...
+<img src=pcb/pcb_image.png width=300/>
+<img src=pcb/sch_image.png width=250/>
 ## CAD model
 (insert image here)
 # Challenges
